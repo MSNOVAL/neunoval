@@ -19,8 +19,7 @@ function Admin() {
   const [currentTime, setCurrentTime] = useState(new Date().toLocaleTimeString());
   
   const navigate = useNavigate();
-  // Gunakan Environment Variable jika ada (saat deploy), jika tidak gunakan localhost
-  const API_BASE = import.meta.env.VITE_API_URL || "http://localhost:5000";
+  const API_BASE = import.meta.env.VITE_API_URL || "";
 
   useEffect(() => {
     const token = localStorage.getItem('neunoval_auth_token');

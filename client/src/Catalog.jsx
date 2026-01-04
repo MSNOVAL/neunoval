@@ -8,8 +8,7 @@ function Catalog() {
   const [selectedApp, setSelectedApp] = useState(null);
   const navigate = useNavigate();
 
-  // Gunakan Environment Variable jika ada (saat deploy), jika tidak gunakan localhost
-  const API_BASE = import.meta.env.VITE_API_URL || "http://localhost:5000";
+  const API_BASE = import.meta.env.VITE_API_URL || "";
 
   useEffect(() => {
     fetchApps();

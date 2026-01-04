@@ -12,8 +12,8 @@ function Home() {
   const [isLoading, setIsLoading] = useState(false);
 
   const navigate = useNavigate();
-  // Gunakan Environment Variable jika ada (saat deploy), jika tidak gunakan localhost
-  const API_BASE = import.meta.env.VITE_API_URL || "http://localhost:5000";
+  // Gunakan relative path kosong agar otomatis memanggil /api di domain yang sama
+  const API_BASE = import.meta.env.VITE_API_URL || "";
 
   useEffect(() => {
     fetchApps();
