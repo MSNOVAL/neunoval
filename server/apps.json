@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1767513645175",
+    "name": "Mitra Catat",
+    "description": "Mitra Catat adalah aplikasi manajemen keuangan yang dirancang dengan pendekatan minimalis namun tetap fungsional untuk membantu siapa saja mengelola arus kas pribadi maupun usaha kecil secara lebih terstruktur. Seringkali, masalah keuangan utama yang dihadapi masyarakat bukan disebabkan oleh kurangnya pemasukan, melainkan karena ketidakmampuan dalam melacak ke mana setiap rupiah dialokasikan. Fenomena \"uang yang menguap\" ini biasanya terjadi karena banyaknya pengeluaran kecil yang tidak terdokumentasi dengan baik. Mitra Catat hadir untuk menjembatani kesenjangan tersebut dengan menyediakan platform digital yang memungkinkan pengguna mendokumentasikan setiap transaksi secara cepat, akurat, dan transparan.\r\n\r\nInti dari aplikasi ini terletak pada kemudahan dan kecepatan penggunaan. Pengguna dapat mencatat pemasukan dan pengeluaran harian hanya dalam hitungan detik, sehingga aktivitas mencatat tidak lagi dianggap sebagai beban yang membosankan. Setiap transaksi dapat dikategorikan secara spesifik, mulai dari kebutuhan pokok, transportasi, hobi, hingga alokasi modal usaha. Fitur kategorisasi ini sangat krusial agar di akhir periode, pengguna bisa melihat pola pengeluarannya secara menyeluruh. Tanpa perlu memahami istilah akuntansi yang rumit, pengguna bisa langsung mengetahui kesehatan finansial mereka melalui ringkasan saldo yang diperbarui secara real-time di halaman utama aplikasi.\r\n\r\nSecara teknis, Mitra Catat dikembangkan dengan fokus pada performa yang responsif dan ringan, memastikan pengalaman pengguna tetap lancar di berbagai spesifikasi perangkat tanpa membebani memori ponsel. Desain antarmukanya yang bersih dan modern bertujuan untuk membantu pengguna fokus pada data keuangan mereka tanpa gangguan visual yang tidak perlu. Dengan menggunakan Mitra Catat, pengguna secara tidak langsung diajak untuk membangun kebiasaan baru yang positif, yaitu \"sadar finansial\". Kesadaran ini adalah langkah pertama yang paling penting menuju stabilitas keuangan jangka panjang. Baik Anda seorang pelajar yang ingin disiplin mengelola uang saku, maupun pelaku usaha mikro yang ingin memantau margin keuntungan, Mitra Catat adalah solusi digital yang tepat untuk mendampingi setiap langkah perjalanan finansial Anda.",
+    "logoUrl": "http://localhost:5000/uploads/mitra_catat/icons/Gemini_Generated_Image_7tc1ys7tc1ys7tc1 (1)-1767513643692.png",
+    "logoShape": "rounded-2xl",
+    "screenshotUrl": "http://localhost:5000/uploads/mitra_catat/screenshots/Screenshot_2026-01-03-21-34-25-156_com.example.mitra_catat-1767513643711.jpg",
+    "screenshots": [
+      "http://localhost:5000/uploads/mitra_catat/screenshots/Screenshot_2026-01-03-21-34-25-156_com.example.mitra_catat-1767513643711.jpg",
+      "http://localhost:5000/uploads/mitra_catat/screenshots/Screenshot_2026-01-03-21-34-28-263_com.example.mitra_catat-1767513643713.jpg",
+      "http://localhost:5000/uploads/mitra_catat/screenshots/Screenshot_2026-01-03-21-34-31-799_com.example.mitra_catat-1767513643718.jpg",
+      "http://localhost:5000/uploads/mitra_catat/screenshots/Screenshot_2026-01-03-21-34-44-204_com.example.mitra_catat-1767513643721.jpg",
+      "http://localhost:5000/uploads/mitra_catat/screenshots/Screenshot_2026-01-03-21-34-47-001_com.example.mitra_catat-1767513643722.jpg"
+    ],
+    "versions": [
+      {
+        "version": "2.0",
+        "date": "2026-01-04T08:00:45.174Z",
+        "files": {
+          "android": "http://localhost:5000/uploads/mitra_catat/app/app-release-1767513643724.apk",
+          "windows": null,
+          "ios": null,
+          "linux": null
+        },
+        "size": 56256691
+      }
+    ]
+  }
+]
